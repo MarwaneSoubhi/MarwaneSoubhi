@@ -1,7 +1,7 @@
 # About me 👋
 
 
-- 🔭 I’m currently working on developping new skills 
+- 🔭 I’m currently working on developping Tech-Analysis skills 
 - 🌱 I’m currently learning Data Science at Guy-Concordia 
 - 👯 I’m looking to collaborate on making connections 
 - 🤔 I’m looking for help with ... I dont know yet 
