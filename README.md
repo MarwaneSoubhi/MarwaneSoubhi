@@ -1,10 +1,6 @@
 # About me 👋
 
 
-**MarwaneSoubhi/MarwaneSoubhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on developping new skills 
 - 🌱 I’m currently learning Data Science at Guy-Concordia 
 - 👯 I’m looking to collaborate on making connections 
